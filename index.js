@@ -107,7 +107,7 @@ function renderProductDetail() {
       <div class="nav-inner">
         <a class="logo" href="#" onclick="goHome(); return false;">
           <div class="logo-icon"><img src="./images/logo.jpeg" width="40px"></div>
-          <span class="logo-name">Mujtabaphullarwan9</span>
+          <span class="logo-name">MUJTABAPHULLARWAN9</span>
         </a>
         <ul class="nav-links" id="detail-nav-links">
           <li><a href="#" onclick="goHome(); return false;" class="nav-link">Home</a></li>
@@ -233,7 +233,7 @@ function renderConfirmPage() {
       <div class="nav-inner">
         <a class="logo" href="#" onclick="goHome(); return false;">
           <div class="logo-icon"><img src="./images/logo.jpeg" width="40px"></div>
-          <span class="logo-name">Mujtabaphullarwan9</span>
+          <span class="logo-name">MUJTABAPHULLARWAN9</span>
         </a>
       </div>
     </nav>
@@ -280,7 +280,7 @@ function openWhatsApp() {
   const d = orderData;
   const waNumber = "923001718949"; // Replace with your WhatsApp number (no + or spaces)
   const message =
-    `🌟 *New Order — Luxury Parfums* 🌟\n\n` +
+    `🌟 *New Order —MP9 Luxury Parfums* 🌟\n\n` +
     `*📦 Order Details*\n` +
     `Fragrance: ${d.product}\n` +
     `Collection: ${d.family}\n` +
